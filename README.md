@@ -13,20 +13,16 @@
 ### ✅ **Passo 2 - Criar Diretórios** 
 - No terminal, execute os seguintes comandos: 
 
-```bash 
-cd /c/ 
+``` cd /c/ 
 mkdir -p NinjaDoCypress/Apps/WebDojo 
 cd NinjaDoCypress/Apps/WebDojo
 ```
-
 ### ✅ **Passo 3 - Descompactar o Arquivo**
 - Localize o arquivo `WebDojo.zip`. 
 - Extraia o conteúdo para **C:\NinjaDoCypress\Apps\WebDojo**. 
 
 ### ✅ **Passo 4 - Instalar Dependências** `
-``` 
-bash npm install 
-``` 
+``` npm install ```
 ### ✅ **Passo 5 - Iniciar a Aplicação** 
 
 ### ✅ **Passo 6 - Acessar a Aplicação** 
@@ -44,17 +40,17 @@ bash npm install
 ### ✅ **Passo 2 - Criar Diretórios** 
 - No terminal, execute os comandos abaixo: 
 
-``` bash cd ~ mkdir -p NinjaDoCypress/Apps/WebDojo cd NinjaDoCypress/Apps/WebDojo ``` 
+``` cd ~ mkdir -p NinjaDoCypress/Apps/WebDojo cd NinjaDoCypress/Apps/WebDojo ``` 
 
 ### ✅ **Passo 3 - Descompactar o Arquivo** 
 - Localize o arquivo `WebDojo.zip` no Finder. 
 - Extraia o conteúdo para **~/NinjaDoCypress/Apps/WebDojo**. 
 
 ### ✅ **Passo 4 - Instalar Dependências** 
-```bash npm install ``` 
+``` npm install ``` 
 
 ### ✅ **Passo 5 - Iniciar a Aplicação** 
-```bash npm run dev ``` 
+``` npm run dev ``` 
 
 ### ✅ **Passo 6 - Acessar a Aplicação** 
 - Abra o navegador e acesse: 🔗 [http://localhost:3000](http://localhost:3000/) 
@@ -68,19 +64,19 @@ bash npm install
 ### ✅ **Passo 2 - Criar Diretórios** 
 - No terminal, execute os comandos abaixo: 
 
-``` bash cd ~ mkdir -p NinjaDoCypress/Apps/WebDojo cd NinjaDoCypress/Apps/WebDojo ``` 
+``` cd ~ mkdir -p NinjaDoCypress/Apps/WebDojo cd NinjaDoCypress/Apps/WebDojo ``` 
 
 ### ✅ **Passo 3 - Descompactar o Arquivo** 
 - Localize o arquivo `WebDojo.zip`.
 - Extraia o conteúdo para **~/NinjaDoCypress/Apps/WebDojo**.Se preferir usar o terminal:
 
-```bash unzip /caminho/para/WebDojo.zip -d ~/NinjaDoCypress/Apps/WebDojo ``` 
+```unzip /caminho/para/WebDojo.zip -d ~/NinjaDoCypress/Apps/WebDojo ```
 
 ### ✅ **Passo 4 - Instalar Dependências** 
-```bash npm install ```
+``` npm install ```
 
 ### ✅ **Passo 5 - Iniciar a Aplicação** 
-```bash npm run dev ```
+``` npm run dev ```
 
 ### ✅ **Passo 6 - Acessar a Aplicação** 
 - Abra o navegador e acesse: 🔗 [http://localhost:3000](http://localhost:3000/)

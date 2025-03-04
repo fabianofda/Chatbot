@@ -1,0 +1,17 @@
+[
+  {
+    "titulo": "Deve indicar que a encomenda já foi entregue",
+    "codigoDeRastreio": "PD123456785BR",
+    "mensagemFinal": "Boa notícia! Sua encomenda já foi entregue com sucesso. 🎉 Se precisar de algo mais, é só me chamar!"
+  },
+  {
+    "titulo": "Deve indicar que a encomanda esta a caminho",
+    "codigoDeRastreio": "BR987654321BR",
+    "mensagemFinal": "A sua encomenda já foi despachada e está a caminho! 🚚 Prazo estimado: 5 dias úteis."
+  },
+  {
+    "titulo": "Deve indicar que a encomanda esta em rota de entrega",
+    "codigoDeRastreio": "QW112233445BR",
+    "mensagemFinal": "Ótima notícia! Sua encomenda está em rota de entrega e chega ainda hoje. Fique de olho! 👀📦"
+  }
+]

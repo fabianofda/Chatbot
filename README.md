@@ -42,7 +42,8 @@ npm install
 ### ✅ **Passo 2 - Criar Diretórios** 
 - No terminal, execute os comandos abaixo: 
 
-``` cd ~ mkdir -p NinjaDoCypress/Apps/WebDojo cd NinjaDoCypress/Apps/WebDojo 
+``` 
+cd ~ mkdir -p NinjaDoCypress/Apps/WebDojo cd NinjaDoCypress/Apps/WebDojo 
 ``` 
 
 ### ✅ **Passo 3 - Descompactar o Arquivo** 
